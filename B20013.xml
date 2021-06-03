@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation prohibiting the importation of all sorts of manufactures and commodities whatsoever, of the growth, production, or manufacture of France, and of all places in the possession of the French King.</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20013</idno><idno type="EEBO-CITATION">99883062_192512</idno>
+  <idno type="VID">192512</idno>
+  <idno type="EEBO-PROQUEST">2248520527</idno>
+  
+            <idno type="OCLC"> 12265241</idno>
+            <idno type="STC">Wing C3530</idno>
+            <idno type="STC">Interim Tract Supplement Guide 21.h.2[35]</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.21.f.1[39b]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1851.c.8[204]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1851.c.8[205]</idno>
+            <idno type="STC">ESTC R1801</idno>
+            <idno type="PROQUEST">ocm99883062</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99883062e"/>
+            <note>(EEBO-TCP ; phase 2, no. B20013)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 192512)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C9:1[35]; C9:3[177]; C18:1[203]; C18:1[204])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation prohibiting the importation of all sorts of manufactures and commodities whatsoever, of the growth, production, or manufacture of France, and of all places in the possession of the French King.</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>2 sheets (versos blank)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the assigns of John Bill and Christopher Barker, His Majesties printers,</publisher>
+                  <pubPlace>In the Savoy, [i.e. London] :</pubPlace>
+                  <date>1666.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At end of text: Given at our court at Whitehall the tenth day of November, in the eighteenth year of our reign, 1666.</note>
+                  <note>Steele notation: Arms 75  Assembled, Kingdom 2) Com- be-.</note>
+                  <note>Two copies are filmed consecutively at reel C18:1[203]-[204].</note>
+                  <note>Copies at reel C18:1[203]-[204] consist of single sheet.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Economic sanctions --  France --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:192512:1"/>
+            <head>
+               <figure>
+                  <figDesc>royal arms of England, circa 1666</figDesc>
+                  <p>HONI · SO<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>T QVI · MAL · Y · PENS<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </p>
+                  <p>DIEV ET MON DROIT</p>
+               </figure> By the King. A PROCLAMATION Prohibiting the Importation of all sorts of Manufactures and Commodities whatsoever, of the Growth, Production, or Manufacture of <hi>France,</hi> and of all places in the Possession of the <hi>French</hi> King.</head>
+            <opener>
+               <signed>CHARLES R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </seg>Hereas Our Loyal Subjects the Lords and Commons in this present Parliament Assembled, seriously weighing the present state of Affairs, have humbly moved Vs to Issue out Our Proclamation, Prohibiting strictly the Importation of all sorts of Manufactures and Com<g ref="char:EOLhyphen"/>modities whatsoever of the Growth, Production, or Manufacture of <hi>France,</hi> and of all other Lands and places in the Possession of the <hi>French</hi> King, into any Port or place of this Our Kingdom, or Town of <hi>Berwick</hi> upon <hi>Tweed.</hi> And We seriously considering such their hum<g ref="char:EOLhyphen"/>ble motion, and accepting with much contentment their great care for the Publick, Do accordingly De<g ref="char:EOLhyphen"/>clare Our Royal Pleasure to be, and do hereby straitly Charge and Command, That no person or persons whatsoever, from and after the First day of <hi>December</hi> now next coming, directly or indirectly, Import, or bring, or cause, or procure to be Imported or brought into this Our Kingdom of <hi>England,</hi> Dominion of <hi>Wales,</hi> or Town of <hi>Berwick</hi> upon <hi>Tweed,</hi> any sort or sorts of Manufactures, Wines, Wares, Merchandizes, or Commodities whatsoever, of the Growth, Production, or Manufacture of <hi>France,</hi> or of any Lands, Ter<g ref="char:EOLhyphen"/>ritories, or places in the Dominions or Possessions of the <hi>French</hi> King, upon pain of Our high Displeasure and of the loss and forfeiture of all and every such Manufactures, Wines, Wares, Merchandizes and Com<g ref="char:EOLhyphen"/>modities, as shall be so Imported, and to incur such other Penalties and Punishments, as by the Laws and Statutes of this Our Realm, or otherwise may justly be Inflicted on them for Contempt, or neglect of Our Royal Commands herein. And We do also hereby straitly Charge, Require and Command all Our loving Subjects whatsoever, That they and every of them do from and after the said First day of <hi>December</hi> now next ensuing, wholly forbear, directly or indirectly, to Buy, Bargain, Contract for, Sell or Vtter any sort or sorts of Manufactures, Wines, Wares, Merchandizes, or Commodities whatsoever of the Growth, Production, or Manufacture of <hi>France,</hi> or of any Lands, Territories or places whatsoever in the Dominion or Possession of the <hi>French</hi> King (Imported as aforesaid after that day) upon pain of the Seizure, Loss and Forfeiture of the same, and to be further proceéded against as Contemners of Our Will and Pleasure herein Declared. And We do hereby Authorize and Require all Mayors, Sheriffs, Iustices of the Peace, Bayliffs, Consta<g ref="char:EOLhyphen"/>bles, and other Our Officers, Ministers, and loving Subjects, That they and every of them, when, and as often as they or any of them shall be requested in that behalf, be Aiding and Assisting from time to time, in the due execution of the Premisses. And further, That all Our Customers, Collectors, Farmers, Search<g ref="char:EOLhyphen"/>ers, Waiters, and all other Our Officers and Ministers, in Our Port of <hi>London,</hi> and all other Our Ports, Havens, and Creéks within this Our Realm, and Dominion of <hi>Wales,</hi> do from time to time take care to Search for, and Seize as Forfeit to Vs, all such Manufactures, Wines, Wares, Merchandizes, and Com<g ref="char:EOLhyphen"/>modities of the Growth and Production aforesaid whatsoever, as shall from and after the said first day of <hi>De<g ref="char:EOLhyphen"/>cember</hi> now next coming, be Imported, Conveyed, or brought into any Our said Ports, Harbours, or Creéks, contrary to the intent of these Presents. And this shall be their Warrant and Discharge in that be<g ref="char:EOLhyphen"/>half.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at Our Court at Whitehall</hi>
+                  <date>
+                     <hi>the Tenth day of November, in the Eighteenth year of Our Reign,</hi> 1666.</date>
+               </dateline>
+            </closer>
+            <closer>God save the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>In the <hi>SAVOY,</hi> Printed by the Assigns of <hi>John Bill</hi> and <hi>Christopher Barker,</hi> His Majesties Printers, 1666.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
